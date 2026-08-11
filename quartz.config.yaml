@@ -1,13 +1,13 @@
-# yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
+﻿# yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: FNMK 업무 매뉴얼
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  locale: ko-KR
+  baseUrl: sunnymun89.github.io/FNMK_Manual
   ignorePatterns:
     - private
     - templates
@@ -282,3 +282,4 @@ layout:
         right: []
     canvas: {}
     bases: {}
+
